@@ -23,7 +23,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SouparnoGhosh/react-typescript-tailwind-template.git
+   git clone https://github.com/SouparnoGhosh/react-ts-tailwind-template.git
    cd react-typescript-tailwind-template
    ```
 2. Install the dependencies:
